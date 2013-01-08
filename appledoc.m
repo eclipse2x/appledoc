@@ -11,5 +11,6 @@
 #import "GBAppledocApplication.h"
 
 int main(int argc, const char *argv[]) {
+    
 	return DDCliAppRunWithClass([GBAppledocApplication class]);
 }
